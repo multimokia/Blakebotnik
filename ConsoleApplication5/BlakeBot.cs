@@ -17,7 +17,7 @@ namespace ConsoleApplication5
 
             bot.MessageReceived += Bot_MessageReceived;
 
-            bot.Connect("multimokia@gmail.com", "diggydiggy");
+            bot.Connect(user, pass);
 
             bot.Wait();
         }
