@@ -1,4 +1,4 @@
-﻿using Discord;
+using Discord;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -99,7 +99,11 @@ namespace ConsoleApplication5
             {
                 e.Channel.SendMessage("Testing push!");
             }
-            //if (finishedLater)
+            //we're just going to change this for the sake of testing
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Count: " + i);
+            }
         }
     }
 }
