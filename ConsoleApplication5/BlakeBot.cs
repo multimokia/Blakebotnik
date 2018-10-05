@@ -99,7 +99,7 @@ namespace ConsoleApplication5
             {
                 e.Channel.SendMessage("Testing push!");
             }
-            //PRfromGHD verified?work?helpme
+            //PRfromGHD verified?work?helpmepls
         }
     }
 }
