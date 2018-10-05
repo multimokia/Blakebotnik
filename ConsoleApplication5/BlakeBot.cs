@@ -98,6 +98,7 @@ namespace ConsoleApplication5
             if (e.Message.Text.ToLower.Equals("!test"))
             {
                 e.Channel.SendMessage("Testing push!");
+                //test12341234
             }
         }
     }
