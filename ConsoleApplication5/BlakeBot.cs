@@ -1,4 +1,4 @@
-using Discord;
+﻿using Discord;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -104,6 +104,7 @@ namespace ConsoleApplication5
             {
                 Console.WriteLine("Count: " + i);
                 //Right, we're just going to create a new commit right here to test if commits are verified now!
+                //Maybe now??
             }
         }
     }
