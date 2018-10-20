@@ -97,8 +97,9 @@ namespace ConsoleApplication5
             }
             if (e.Message.Text.ToLower.Equals("!test"))
             {
-                e.Channel.SendMessage("Testing push!");
-            }
+                e.Channel.SendMessage("Testing multiple suggestions");
+            }//one more for good measure
+            //changing this
         }
     }
 }
