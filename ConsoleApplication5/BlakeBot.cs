@@ -99,7 +99,7 @@ namespace ConsoleApplication5
             {
                 e.Channel.SendMessage("Testing multiple suggestions");
             }
-            //PRfromGHD verified?work?helpmeplsworkkkkkkkknow?
+            //changing this
         }
     }
 }
