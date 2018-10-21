@@ -97,7 +97,7 @@ namespace ConsoleApplication5
             }
             if (e.Message.Text.ToLower.Equals("!test"))
             {
-                e.Channel.SendMessage("Testing push!");
+                e.Channel.SendMessage("I like chips");
             }
         }
     }
